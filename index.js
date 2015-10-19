@@ -7,7 +7,7 @@ import configureStore from './store/configureStore';
 import 'todomvc-app-css/index.css';
 import PokemonList from './PokemonList';
 
-console.log(PokemonList);
+console.log(PokemonList());
 
 const store = configureStore();
 

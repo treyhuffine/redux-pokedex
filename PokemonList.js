@@ -1,3 +1,8 @@
+var grass = "grass", water = "water", fire = "fire", bug = "bug",
+	psychic = "psychic", flying = "flying", ghost = "ghost", fighting = "fighting",
+	normal = "normal", poison = "poison", electric = "electric", ground = "ground",
+	fairy = "fairy", rock = "rock", ice = "ice", dragon = "dragon";
+
 const Pokemon = [
 	{ name : "MissingNo", type : "blank", stage : 100, caught : 0, species : "Glitch Pokemon"},
 	{ name : "Bulbasaur", type : grass, stage : 0, caught : 0, species : "Seed Pokemon"},
